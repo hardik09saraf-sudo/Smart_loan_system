@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897893651285",
+    "project_id": "smart-interest-system-ad27f",
+    "storage_bucket": "smart-interest-system-ad27f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897893651285:android:7860612c6481eb509d15dc",
+        "android_client_info": {
+          "package_name": "com.example.smart_interest_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBWlTNFm0vIhvUuUlOzq5s4CjWx9dh0Ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
